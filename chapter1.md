@@ -1,6 +1,3 @@
-# First Chapter
+# 第一章 快速上手
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
-
-hello world
 
