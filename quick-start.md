@@ -82,7 +82,7 @@
 
 ![](project-dispatch-2.png)
 
-## 项目分配
+### 2.2.5 项目分配
 
 使用xiangmufenpei用户登录系统，按下图所示，找到需要分配的项目：
 
