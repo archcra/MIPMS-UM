@@ -62,6 +62,20 @@ shenhepizhun/合同审核，角色为：合同审核人，重大项目立项批�
 我们选择“批准通过”。
 
 ## 项目下发
+
+### 合同打印
+使用如下菜单查询到合同后，即可以使用相应行右侧的操作图标，进行打印。
+
+![](contract-query.png)
+
+
+打印的合同示例如下：
+
+![](contract-print.png)
+
+
+### 项目下发
+
 还使用songruilian登录系统，使用如下菜单项：
 ![](project-dispatch.png)
 
