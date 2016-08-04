@@ -61,13 +61,16 @@
  
  ## 项目下发
  
+ 使用liuyawei登录系统。
  
  
  ## 项目分配
  
+ xiangmufenpei
+ 
  
  ## 实验设计
- 
+  renjie(项目负责人)
  
  
  ## 上传检验结果
