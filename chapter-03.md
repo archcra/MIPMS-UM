@@ -11,7 +11,7 @@
 易红梅(yihongmei)-->	检验结果审核人
 葛建镕(gejianrong)-->	项目负责人/检验结果校核人
 任洁(renjie)-->		项目负责人/检验结果校核人
-审核人(shenhepizhun)-->	委托合同审核人/重大项目立项批准
+审核人(shenhepizhun)-->	委托合同审核人/重大项目立项批准：入口批准人
 项目分配(xiangmufenpei)-->	项目分配人
 报告批准人(baogaopizhun)-->	报告批准人
 
@@ -57,6 +57,7 @@
  
  ## 立项批准
  
+ shenhepizhun (入口批准人）
  
  ## 项目下发
  
